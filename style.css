@@ -1,0 +1,191 @@
+		nav{
+			text-align:center;
+
+
+		}
+
+		.menulink{
+			font-size:21px;
+			padding: 10px;
+			margin-right:20px;
+
+		}
+
+		.menudiv{
+			padding: 10px;
+		}
+
+		body{
+			background-color: #ccc;
+		}
+
+
+		.modelekle{
+			width:40%;
+			min-width:390px;
+			margin:auto;
+			background-color:white;
+			padding:20px;
+			margin-top:5%;
+		}
+
+		.modelekle input{
+			width:100%;
+			height:25px;
+			margin:10px 0px;
+			border:1px solid #1e1e1e;
+		}
+
+		.modelekle select{
+			width:100%;
+			height:30px;
+			margin:10px 0px;
+			border:1px solid #1e1e1e;
+		}
+
+		.yakit input{
+
+			width:40px;
+			height:15px;
+			margin:0;
+			margin-right: 30px;
+			margin-bottom:10px;
+			margin-top:10px;
+		}
+
+		.buton{
+			height:50px!important;
+			font-size:24px;
+			color: white;
+			background-color:darkgreen;
+			border: 1px solid darkgren;
+			border-radius:9px;
+		}
+
+
+		.barkutu{
+			width:25%;
+			float:left;
+			padding-right:15px;
+		}
+
+		.yakittuketim{
+			background-color:cornflowerblue;
+			color:white;
+			text-align: center;
+			padding-top:50px;
+			padding-bottom:50px;
+			margin-top: 30px;
+			font-size:28px;
+		}
+
+
+		.toplamarac{
+			background-color:crimson;
+			color:white;
+			text-align: center;
+			padding-top:50px;
+			padding-bottom:50px;
+			margin-top: 30px;
+			font-size:28px;
+		}
+
+
+		.aracliste{
+			width:100%;
+			max-width:800px;
+			margin:auto;
+		}
+
+		.aracliste table{
+			margin-top:50px;
+			width:100%;
+			border-collapse:collapse;
+
+		}
+
+		.aracliste td,th{
+			border: 1px solid lightgrey;
+			text-align:left;
+			padding:9px;
+		}
+
+		.aracliste th{
+			background-color:crimson;
+			color: White;
+			font-size:20px;
+			font-family: 'Noto Sans', sans-serif;
+		}
+
+		.aracliste tr:nth-child(even){
+
+			background-color:white;
+		}
+
+		a{
+			text-decoration:none;
+			color:dimgrey;
+		}
+
+		.silbuton{
+			background-color:crimson;
+			color:white;
+			padding:12px;
+			font-size: 20px;
+			height:60px;
+			border:1px solid crimson;
+			border-radius:9px;
+		}
+
+		.modelekle input,.modelekle select{
+			height:40px;
+			font-size:21px;
+			border:1px solid lightgrey;
+			border-radius:6px;
+		}
+
+		.kullanicigiris{
+			width:400px;
+			padding:20px;
+			padding-top:40px;
+			padding-bottom:40px;
+			background-color:white;
+			margin: auto;
+			margin-top:10%;
+			border-radius:9px;
+		}
+
+		.kullanicigiris input{
+
+			width:100%;
+			margin-top:20px;
+			font-size:20px;
+			padding:9px 0px;
+			border: 1px solid lightgrey;
+			border-radius:9px;
+
+		}
+
+		.kullanicigiris h1{
+			color:#1e1e1e;
+			text-align:center;
+			font-family: 'Poppins', sans-serif;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
